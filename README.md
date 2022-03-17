@@ -1,6 +1,6 @@
 # Noticias React
 
-## Aplicación de noticias desarrolla con React
+## Aplicación de noticias desarrollada con React
 
 ___Por restricciones de la API, la aplicación solo funciona le localhost___
 
