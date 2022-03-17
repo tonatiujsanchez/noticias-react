@@ -12,7 +12,7 @@ function App() {
             <Container>
 
                 <header>
-                    <Typography component="h1" variant="h4" align="center" marginY={3} fontWeight="bold">
+                    <Typography component="h1" variant="h4" align="center" marginY={5} marginTop={8} fontWeight="bold">
                         React News
                     </Typography>
                 </header>
